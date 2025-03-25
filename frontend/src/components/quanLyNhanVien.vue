@@ -1,5 +1,5 @@
 <template>
-    <p>hí</p>
+    <p>ok luôn</p>
 </template>
 <script>
 export default {
